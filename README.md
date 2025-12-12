@@ -23,24 +23,8 @@ My name is Jonathan Bulava, you can call me "Jon," and my pronouns are he/him.
 <br />
 
 ## 👨‍💻 Current Work
-I lead Developer Advocacy at Twitch Interactive. Our team's mission is to inspire innovation by engaging, growing, and empowering a developer community to build products and services that improve interactive experiences for viewers and broadcasters.
+I lead Developer Relations at Twitch. Our team's mission is to inspire innovation by engaging, growing, and empowering the developer community to build products and services that improve interactive experiences for viewers and broadcasters.
 
-🔍  We're currently focused on:
-- Go-to-market tactics and communication
-  - Copywriting and publishing (e.g. [Blog posts](https://blog.twitch.tv/en/tags/developers), [Tweets](https://twitter.com/TwitchDev), [Forum Announcements](https://discuss.dev.twitch.tv/c/announcements))
-  - Streaming from the [TwitchDev channel](https://twitch.tv/TwitchDev)
-  - Technical content contributions (e.g. code samples, tutorials)
-- Community feedback
-  - Quarterly surveys and reports for product teams
-  - Bi-annual developer community reports
-  - [UserVoice](https://twitch.uservoice.com/forums/310213-developers) feedback triage
-  - Bug reports through [GitHub Issues](https://github.com/twitchdev/issues/issues)
-  - Beta programs for potential products
-- Developer support tools
-  - [Discourse forums](https://discuss.dev.twitch.tv)
-  - [Discord server](https://link.twitch.tv/devchat)
-  - [TwitchDev GitHub organization](https://github.com/TwitchDev)
-  
 ## 🎥 Streaming on Twitch as [BlueLava](https://twitch.tv/BlueLava)
-- Tuesdays at 7:30pm ET - PUBG Mobile
-- Saturdays at 7:30pm ET - Miscellaneous topic (e.g. Hollow Knight, Live Coding, Cooking)
+- Tuesdays at 9:00pm ET - Mario Kart WOrld
+- Saturdays at 9:00pm ET - Rocket League and miscellaneous categories
