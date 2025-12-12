@@ -26,5 +26,5 @@ My name is Jonathan Bulava, you can call me "Jon," and my pronouns are he/him.
 I lead Developer Relations at Twitch. Our team's mission is to inspire innovation by engaging, growing, and empowering the developer community to build products and services that improve interactive experiences for viewers and broadcasters.
 
 ## 🎥 Streaming on Twitch as [BlueLava](https://twitch.tv/BlueLava)
-- Tuesdays at 9:00pm ET - Mario Kart WOrld
+- Tuesdays at 9:00pm ET - Mario Kart World
 - Saturdays at 9:00pm ET - Rocket League and miscellaneous categories
